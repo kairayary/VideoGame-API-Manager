@@ -6,8 +6,10 @@
 gestionar personajes y misiones en un videojuego. Usamos TypeScript, Programación Orientada a 
 Objetos (POO), programación asíncrona, y versionado de código con Git y GitHub. El videojuego presenta diversos personajes: cada uno con su misión, experiencia y nivel.</p>
 
-*[Estado del proyecto](#Estado-del-proyecto) <h4 align="center">
-
+*[Características](#Cracterísticas-del-proyecto) <h4 align="center">
+- Gestión de personajes y misiones.
+- Inventario dinámico.
+- Compatible con JSON para persistencia de datos.
 </h4>
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
@@ -16,7 +18,7 @@ Objetos (POO), programación asíncrona, y versionado de código con Git y GitHu
 - `Funcionalidad 1`: Personajes- `Funcionalidad 2`: Misiones- `Funcionalidad 3`: Simulación de juego-
 
 *[Acceso al proyecto](#acceso-proyecto)
- Para poder ejecutar el proyecto es necesario tener instalado type sript. 
+ Para poder ejecutar el proyecto es necesario tener instalado typescript. 
  Para ello se debe ejecutar el comando: npm install -g typescript
  *Luego situados en  src\config ejecutar el comando: npx ts-node index.ts
 
@@ -24,13 +26,9 @@ Objetos (POO), programación asíncrona, y versionado de código con Git y GitHu
 <br>
 <br>
 <br>
-<img src=img/java.sript.png><img>
-<img src=type.sript.png><img>
+<img src=./img/java.sript.png><img>
+<img src=./img/type.sript.png><img>
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/182223706?v=4" width=115><br><sub>Mariana Teodorini</sub>](https://github.com/Teodorini)|[<img src="https://avatars.githubusercontent.com/u/92038167?v=4" width=115><br><sub>Kayra Yary</sub>](https://github.com/kairayary/kairayary)|[<img src="https://avatars.githubusercontent.com/u/184713542?v=4" width=115><br><sub>Celeste Zarate</sub>](https://github.com/CelesteAmiel)|
-| :---: | :---: | :---: |
 
 
