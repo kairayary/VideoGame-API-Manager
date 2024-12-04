@@ -1,0 +1,25 @@
+[
+  {
+    "name": "mario",
+    "level": 10,
+    "health": 80,
+    "experience": 180,
+    "inventory": [
+      "espada",
+      "Arco",
+      "Flecha"
+    ],
+    "type": "warrior",
+    "attack": 10,
+    "defense": 5,
+    "missions": [
+      {
+        "name": "rescatar a peach",
+        "description": "pelear con kupa en el castillo de fuego",
+        "difficulty": 9,
+        "reward": 90,
+        "type": "event"
+      }
+    ]
+  }
+]
