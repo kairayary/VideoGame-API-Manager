@@ -7,10 +7,11 @@ gestionar personajes y misiones en un videojuego. Usamos TypeScript, Programaci�
 Objetos (POO), programación asíncrona, y versionado de código con Git y GitHub. El videojuego presenta diversos personajes: cada uno con su misión, experiencia y nivel.</p>
 
 *[Características](#Cracterísticas-del-proyecto) <h4 align="center">
+<p>
 - Gestión de personajes y misiones.
 - Inventario dinámico.
 - Compatible con JSON para persistencia de datos.
-</h4>
+</p>
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 ## :hammer:Funcionalidades del proyecto
